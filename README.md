@@ -18,8 +18,6 @@ To understand what makes a password strong by testing different passwords and an
 - Importance of length and unpredictability
 - Role of password managers and MFA
 
-## 📤 Submission
-After uploading all files to GitHub, submit the repository link to the internship portal.
 
 ---
 
